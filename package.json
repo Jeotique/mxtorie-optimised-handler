@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "mxtorie-handler": "^1.0.4"
+  }
+}
